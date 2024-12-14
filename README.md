@@ -17,8 +17,9 @@ To integrate the Gameplay Message Router into your project, follow these simple 
 4. Regenerate your project's solution files.
 
 ## Supported Engine Versions
-
-5.0
+[5.5](https://github.com/laomo404/GameplayMessageRouter/releases/tag/5.5) 
+[5.4](https://github.com/laomo404/GameplayMessageRouter/releases/tag/5.4) 
+[5.3](https://github.com/laomo404/GameplayMessageRouter/releases/tag/5.3) 
 
 ## Supported Platforms
 
@@ -29,6 +30,7 @@ To integrate the Gameplay Message Router into your project, follow these simple 
 ## Network Replication Support
 
 Not Supported
+
 
 ## License.md
 [License.md](GameplayMessageRouter/License.md) 
