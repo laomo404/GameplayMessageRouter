@@ -33,10 +33,6 @@ To integrate the Gameplay Message Router into your project, follow these simple 
 
 Not Supported
 
-
-## License.md
-[License.md](GameplayMessageRouter/License.md) 
-
 ---
 #### Reference Github @imnazake
 - [API Example](https://github.com/imnazake/gameplay-message-router)
