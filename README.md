@@ -8,11 +8,11 @@ To integrate the Gameplay Message Router into your project, follow these simple 
 1. Obtain the Lyra game project from the [Fab](https://www.fab.com/zh-cn/listings/93faede1-4434-47c0-85f1-bf27c0820ad0) .
 
 2. Copy the 'GameplayMessageRuntime' plugin from the Lyra project's plugins folder and paste it into your project's plugins folder (YourProject/Plugins/GameplayMessageRuntime).
-![WhereIsFolder](GameplayMessageRouter/Docs/WhereIsFolder.png)
+![WhereIsFolder](https://raw.githubusercontent.com/laomo404/GameplayMessageRouter/docs/Docs/WhereIsFolder.png)
 
 3. Add 'GameplayMessageRuntime' to your `YourProject.Build.cs` file.
-![WhereIsFile](GameplayMessageRouter/Docs/WhereIsFile.png)
-![HowToAdd](GameplayMessageRouter/Docs/HowToAdd.png)
+![WhereIsFile](https://raw.githubusercontent.com/laomo404/GameplayMessageRouter/docs/Docs/WhereIsFile.png)
+![HowToAdd](https://raw.githubusercontent.com/laomo404/GameplayMessageRouter/docs/Docs/HowToAdd.png)
 
 4. Regenerate your project's solution files.
 
@@ -31,7 +31,7 @@ To integrate the Gameplay Message Router into your project, follow these simple 
 Not Supported
 
 ## License.md
-[License.md](GameplayMessageRouter/Docs/License.md) 
+[License.md](GameplayMessageRouter/License.md) 
 
 ---
 #### Reference Github @imnazake
