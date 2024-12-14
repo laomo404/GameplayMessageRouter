@@ -6,6 +6,7 @@ public class GameplayMessageNodes : ModuleRules
 {
 	public GameplayMessageNodes(ReadOnlyTargetRules Target) : base(Target)
 	{
+		PublicDependencyModuleNames.AddRange(new string[] { "BlueprintGraph" });
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 
 		PrivateDependencyModuleNames.AddRange(
