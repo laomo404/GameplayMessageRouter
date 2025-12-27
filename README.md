@@ -4,6 +4,8 @@
 
 ## Supported Engine Versions
 The release below is the compiled plugin.
+- [5.7](https://github.com/laomo404/GameplayMessageRouter/releases/tag/5.7) 
+- [5.6](https://github.com/laomo404/GameplayMessageRouter/releases/tag/5.6) 
 - [5.5](https://github.com/laomo404/GameplayMessageRouter/releases/tag/5.5) 
 - [5.4](https://github.com/laomo404/GameplayMessageRouter/releases/tag/5.4) 
 - [5.3](https://github.com/laomo404/GameplayMessageRouter/releases/tag/5.3)
