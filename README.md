@@ -2,6 +2,7 @@
 - The Gameplay Message Router, originally by Epic Games, was designed for communication between unconnected gameplay objects but only supported Unreal Engine 5.0.
 - This version has been updated to ensure compatibility with Unreal Engine 5.3+, while retaining the original functionality. Compatible with Windows.
 
+# 如果你只想使用，而不需要源码，点这里下载对应的版本即可
 ## Supported Engine Versions
 The release below is the compiled plugin.
 - [5.7](https://github.com/laomo404/GameplayMessageRouter/releases/tag/5.7) 
@@ -10,6 +11,7 @@ The release below is the compiled plugin.
 - [5.4](https://github.com/laomo404/GameplayMessageRouter/releases/tag/5.4) 
 - [5.3](https://github.com/laomo404/GameplayMessageRouter/releases/tag/5.3)
 
+# 如果想要下载源码自行编译，可以参考下面的方法
 ## Source Code Getting Started
 
 To integrate the Gameplay Message Router into your project, follow these simple steps:
